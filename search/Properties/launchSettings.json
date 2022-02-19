@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "search": {
+      "commandName": "Project",
+      "commandLineArgs": "Neude"
+    }
+  }
+}
